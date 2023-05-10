@@ -3,15 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects & Labs:</h2>
 
 - <b>Designing a Wireless Network</b>
-  - [Project Scope](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Objectives of the Network](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Network Needs Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [QoS Requirements](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Reliability & Security Requirements](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Diagram 1](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Diagram 2](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Cost Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Test Plan](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Wireless Network Project](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
