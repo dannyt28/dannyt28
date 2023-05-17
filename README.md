@@ -10,7 +10,7 @@
 - <b>Forensic Memory Analysis Lab</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>C#</b>
-  - [Making a Calculator in C (7 function)]
+  - [Calculator Project](https://github.com/dannyt28/Calculator-Program)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
