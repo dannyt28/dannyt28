@@ -7,7 +7,7 @@
 - <b>Digital Forensic Labs </b>
   - [Wireshark Investigation](https://github.com/dannyt28/Digital-Forensic-Investigation-Lab) 
   - [Forensic Memory Analysis](https://github.com/dannyt28/ForensicMemoryAnalysis) 
-- <b>Forensic Memory Analysis Lab</b>
+- <b>Penetration Assessment</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>C#</b>
   - [Calculator Project](https://github.com/dannyt28/Calculator-Program)
