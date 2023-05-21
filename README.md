@@ -9,6 +9,7 @@
   - [Forensic Memory Analysis](https://github.com/dannyt28/ForensicMemoryAnalysis) 
 - <b>Penetration Assessment</b>
   - [Passive Reconnaissance](https://github.com/dannyt28/Passive-Reconnaissance)
+  - [Automating Information RECON](https://github.com/dannyt28/Automating-Information-RECON/tree/main)
 - <b>C#</b>
   - [Calculator Project](https://github.com/dannyt28/Calculator-Program)
 - <b>Python</b>
