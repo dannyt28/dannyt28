@@ -8,7 +8,7 @@
   - [Wireshark Investigation](https://github.com/dannyt28/Digital-Forensic-Investigation-Lab) 
   - [Forensic Memory Analysis](https://github.com/dannyt28/ForensicMemoryAnalysis) 
 - <b>Penetration Assessment</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Passive Reconnaissance](https://github.com/dannyt28/Passive-Reconnaissance)
 - <b>C#</b>
   - [Calculator Project](https://github.com/dannyt28/Calculator-Program)
 - <b>Python</b>
