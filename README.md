@@ -10,6 +10,7 @@
 - <b>Penetration Assessment</b>
   - [Passive Reconnaissance](https://github.com/dannyt28/Passive-Reconnaissance)
   - [Automating Information RECON](https://github.com/dannyt28/Automating-Information-RECON/tree/main)
+  - [Nmap Scan]
 - <b>C#</b>
   - [Calculator Project](https://github.com/dannyt28/Calculator-Program)
 - <b>Python</b>
