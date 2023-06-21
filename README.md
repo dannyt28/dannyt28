@@ -11,5 +11,7 @@
   - [Passive Reconnaissance](https://github.com/dannyt28/Passive-Reconnaissance)
   - [Automating Information RECON](https://github.com/dannyt28/Automating-Information-RECON/tree/main)
   - [Nmap Scan](https://github.com/dannyt28/NMap-Scan/tree/main)
+- <b>Vulnerability Assessment</b>
+  - [OpenVAS Lab]
 - <b>C#</b>
   - [Calculator Project](https://github.com/dannyt28/Calculator-Program)
